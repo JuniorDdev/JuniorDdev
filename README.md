@@ -4,7 +4,7 @@
 
 ### Sistemas de Informação · Desenvolvimento Web · Soluções digitais
 
-Acadêmico de Sistemas de Informação, com atuação em redes, field service e desenvolvimento de sistemas web. Trabalho com Python, Flask, JavaScript, HTML/CSS e soluções apoiadas por IA.
+Bacharel em Sistemas de Informação e pós-graduando em Engenharia de Software, com atuação em redes, field service e desenvolvimento de sistemas web. Trabalho com Python, Flask, JavaScript, HTML/CSS e soluções apoiadas por IA.
 
 [![GitHub](https://img.shields.io/badge/GitHub-JuniorDdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuniorDdev)
 
