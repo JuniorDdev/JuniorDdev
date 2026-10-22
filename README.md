@@ -99,6 +99,17 @@ Bacharel em Sistemas de Informação e pós-graduando em Engenharia de Software,
 
 ---
 
+## 📫 Contato
+
+<p>
+  <a href="mailto:junior_db2008@hotmail.com">
+    <img src="https://img.shields.io/badge/E--mail-junior__db2008%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Enviar e-mail para Domingos Junior" />
+  </a>
+  <a href="https://www.linkedin.com/in/domingos-junior-7a5357252/">
+    <img src="https://img.shields.io/badge/LinkedIn-Domingos%20Junior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Domingos Junior" />
+  </a>
+</p>
+
 <div align="center">
   <i>Explore os showcases acima para conhecer os projetos em detalhe.</i>
 </div>
