@@ -14,7 +14,7 @@ Bacharel em Sistemas de Informação e pós-graduando em Engenharia de Software,
 
 ## 🌱 Minha jornada
 
-Iniciei minha jornada na programação com os ensinamentos de Gustavo Guanabara. Hoje, eu e meu amigo PH — que também é um orientador em minha vida — nos motivamos mutuamente a seguir aprendendo, criando projetos e evoluindo continuamente no desenvolvimento de software.
+Iniciei minha jornada na programação com os ensinamentos de Gustavo Guanabara. Hoje, eu e meu amigo PH nos motivamos mutuamente a continuar aprendendo, desenvolvendo projetos e evoluindo no desenvolvimento de software. Essa trajetória também me inspira a incentivar outros amigos, compartilhando conhecimentos, ideias e experiências para que possamos crescer juntos na área de tecnologia.
 
 ---
 
