@@ -81,11 +81,19 @@ Bacharel em Sistemas de Informação e pós-graduando em Engenharia de Software,
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 </p>
 
+### Cloud e deploy
+
+<p>
+  <img src="https://img.shields.io/badge/Cloud%20Deployment-4285F4?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud deployment" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/PythonAnywhere-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PythonAnywhere" />
+</p>
+
 ## 🎯 Em foco
 
 - Desenvolvimento de sistemas web e experiências digitais;
 - Automação, integração e soluções com inteligência artificial;
-- Bancos de dados relacionais, infraestrutura, suporte técnico e confiabilidade operacional.
+- Bancos de dados relacionais, cloud deployment, infraestrutura, suporte técnico e confiabilidade operacional.
 
 ---
 
