@@ -4,7 +4,7 @@
 
 ### Bacharel em Sistemas de Informação · Pós graduando em engenharia de software · Desenvolvimento Web · Soluções digitais
 
-Bacharel em Sistemas de Informação e pós-graduando em Engenharia de Software, com atuação em redes, field service e desenvolvimento de sistemas web. Trabalho com Python, Flask, JavaScript, HTML/CSS e soluções apoiadas por IA.
+Bacharel em Sistemas de Informação e pós-graduando em Engenharia de Software, com atuação em redes, field service e desenvolvimento de sistemas web. Trabalho com Python, Flask, JavaScript, HTML/CSS, integrações com APIs e soluções de IA com RAG.
 
 [![GitHub](https://img.shields.io/badge/GitHub-JuniorDdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuniorDdev)
 
@@ -94,7 +94,7 @@ Bacharel em Sistemas de Informação e pós-graduando em Engenharia de Software,
 ## 🎯 Em foco
 
 - Desenvolvimento de sistemas web e experiências digitais;
-- Automação, integração e soluções com inteligência artificial;
+- Automação, integrações com APIs e soluções com inteligência artificial, incluindo RAG;
 - Bancos de dados relacionais, cloud deployment, infraestrutura, suporte técnico e confiabilidade operacional.
 
 ---
