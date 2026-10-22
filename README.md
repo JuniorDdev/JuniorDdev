@@ -2,7 +2,7 @@
 
 # Olá, eu sou Domingos Junior 👋
 
-### Sistemas de Informação · Desenvolvimento Web · Soluções digitais
+### Bacharel em Sistemas de Informação · Pós graduando em engenharia de software · Desenvolvimento Web · Soluções digitais
 
 Bacharel em Sistemas de Informação e pós-graduando em Engenharia de Software, com atuação em redes, field service e desenvolvimento de sistemas web. Trabalho com Python, Flask, JavaScript, HTML/CSS e soluções apoiadas por IA.
 
