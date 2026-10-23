@@ -18,6 +18,20 @@ Iniciei minha jornada na programação com os ensinamentos de Gustavo Guanabara.
 
 ---
 
+## 📚 Pesquisa e impacto
+
+📄 **[Sistema Web de Avaliação de Satisfação em Service Desk Educacional como Suporte ao ODS 9](https://doi.org/10.51891/rease.v12i6.27660)**  
+*Revista Ibero-Americana de Humanidades, Ciências e Educação — 2026*
+
+Pesquisa aplicada ao desenvolvimento de uma plataforma para avaliar a satisfação em serviços de suporte de TI educacional, alinhada ao **ODS 9 — Indústria, Inovação e Infraestrutura**.
+
+- Desenvolvimento com **Flask, SQLite, HTML, CSS e Chart.js**;
+- Aplicação de práticas de **ITIL** e **ITSM**, com dashboard para acompanhamento dos atendimentos;
+- Média de satisfação de **9,7/10** e taxa de resolução de **96,3%**;
+- Foco em inovação, transformação digital e melhoria contínua do suporte de TI.
+
+---
+
 ## 🏆 Projetos campeões
 
 <table>
