@@ -26,7 +26,8 @@ Iniciei minha jornada na programação com os ensinamentos de Gustavo Guanabara.
       <h3>🏭 HydrogenI — BoxTwin 3D</h3>
       <p>Gêmeo digital 3D para medição automática de volume em boxes portuários.</p>
       <p><strong>🏆 Vencedor do Desafio 3 do II Hackathon do Porto do Itaqui (2026)</strong></p>
-      <p><a href="https://github.com/JuniorDdev/hydrogeni-boxtwin-showcase">Ver showcase →</a></p>
+      <p><a href="https://github.com/JuniorDdev/hydrogeni-boxtwin-showcase-team">Ver showcase do time →</a></p>
+      <p><a href="https://github.com/JuniorDdev/hydrogeni-boxtwin-showcase-team"><img src="https://raw.githubusercontent.com/JuniorDdev/hydrogeni-boxtwin-showcase-team/main/docs/qr-showcase.png" width="120" alt="QR code para o showcase HydrogenI BoxTwin 3D" /></a><br /><sub>Escaneie para abrir o showcase</sub></p>
       <code>Python</code> <code>Flask</code> <code>IoT</code> <code>Raspberry Pi</code>
     </td>
     <td width="50%" valign="top">
