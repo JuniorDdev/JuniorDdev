@@ -63,7 +63,7 @@ Pesquisa aplicada ao desenvolvimento de uma plataforma para avaliar a satisfaç�
       <h3>🧰 Helpdesk Manager</h3>
       <p>Sistema web para suporte técnico, patrimônio, inventário e agendamentos de laboratórios.</p>
       <p><a href="https://github.com/JuniorDdev/helpdeskmanager-showcase">Ver showcase →</a></p>
-      <code>Python</code> <code>Flask</code> <code>Gestão</code>
+      <code>Python</code> <code>Flask</code> <code>MySQL</code> <code>Bootstrap</code> <code>Chart.js</code> <code>PWA</code> <code>Railway</code>
     </td>
   </tr>
 </table>
