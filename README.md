@@ -41,14 +41,14 @@ Pesquisa aplicada ao desenvolvimento de uma plataforma para avaliar a satisfaç�
       <p>Gêmeo digital 3D para medição automática de volume em boxes portuários.</p>
       <p><strong>🏆 Vencedor do Desafio 3 do II Hackathon do Porto do Itaqui (2026)</strong></p>
       <p><a href="https://github.com/JuniorDdev/hydrogeni-boxtwin-showcase-team">Ver showcase do time →</a></p>
-      <code>Python</code> <code>Flask</code> <code>IoT</code> <code>Raspberry Pi</code>
+      <code>Python</code> <code>Flask</code> <code>JavaScript</code> <code>SQLite</code> <code>IoT</code> <code>Raspberry Pi</code> <code>PWA</code>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Conecta Campus</h3>
       <p>Plataforma de acolhimento, orientação e escuta da comunidade acadêmica.</p>
       <p><strong>🏆 1º lugar no Inova CEUMA (2026)</strong></p>
       <p><a href="https://github.com/JuniorDdev/conecta-campus-showcase">Ver showcase →</a></p>
-      <code>Web</code> <code>Impacto social</code> <code>Comunidade</code>
+      <code>Python</code> <code>Flask</code> <code>SQLite</code> <code>IA</code> <code>Flutter</code> <code>Android</code> <code>Acessibilidade</code>
     </td>
   </tr>
   <tr>
