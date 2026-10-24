@@ -32,7 +32,7 @@ Pesquisa aplicada ao desenvolvimento de uma plataforma para avaliar a satisfaç�
 
 ---
 
-## 🏆 Projetos campeões
+## 🏆 Projetos campeões e promissores
 
 <table>
   <tr>
